@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliesatgungor
-- 👀 I’m interested in Cyber Security,Deep Learning and .NET
+- 👀 I’m interested in Cyber Security and Deep Learning
 - 🌱 I’m currently learning C++,Python and C#
-- 📫 How to reach me ig: @aliesatgungor mail: aliesatgungor@outlook.com.tr
+- 📫 How to reach me Instagram: @aliesatgungor ,E-Mail: aliesatgungor@outlook.com.tr
 
 <!---
 aliesatgungor/aliesatgungor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

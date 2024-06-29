@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliesatgungor
 - 👀 I’m interested in Cyber Security and Embeeded Systems 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me? E-Mail: ali@aliesatgungor.com
+- 📫 How to reach me? E-Mail: ali@aliesatgungor.com/hi
    https://aliesatgungor.com
 
 <!---

@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <!-- You can customize these icons at skillicons.dev -->
-    <img src="https://skillicons.dev/icons?i=ubuntu,ros,react,python,cpp,sql,aws,cloudflare,github" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,ros,react,python,c++,sql,aws,cloudflare,github" />
   </a>
 </p>
 
@@ -29,10 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aliesatgungor&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=38BDB0&text_color=C9D1D9" alt="GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliesatgungor&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aliesatgungor&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ### 🏆 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliesatgungor&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=38BDB0&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliesatgungor&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=38BDB0&text_color=C9D1D9" alt="Top Languages" />
 </div>

@@ -30,7 +30,7 @@ When I’m not coding or conducting tests, you can find me at my optimized city 
 <p align="left">
   <a href="https://skillicons.dev">
     <!-- Otonom sistemler, Full-Stack ve Marine Tech odaklı bir ikon seti -->
-    <img src="https://skillicons.dev/icons?i=ros,ubuntu,cpp,py,react,dotnet,cs,js,html,css,sql,aws,cloudflare,docker,kubernetes,jenkins,git,github" />
+    <img src="https://skillicons.dev/icons?i=ros,ubuntu,cpp,py,react,dotnet,aws,cloudflare,docker,git,github" />
   </a>
 </p>
 
@@ -43,6 +43,13 @@ When I’m not coding or conducting tests, you can find me at my optimized city 
 - **Flapzy (WIP):** Building a modern monorepo application using scalable cloud technologies (AWS, Cloudflare).
 
 ---
+
+### 🏆 Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliesatgungor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+
 
 ### 📊 GitHub Activity
 

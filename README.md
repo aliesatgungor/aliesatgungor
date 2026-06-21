@@ -31,7 +31,10 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aliesatgungor&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
 ### 🏆 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliesatgungor&amp;layout=compact&amp;theme=radium&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDB0&amp;text_color=C9D1D9" alt="Top Languages" />
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aliesatgungor&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=38BDB0&text_color=C9D1D9)
+
 </div>

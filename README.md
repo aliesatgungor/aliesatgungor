@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <!-- You can customize these icons at skillicons.dev -->
-    <img src="https://skillicons.dev/icons?i=ubuntu,ros,react,python,c++,sql,aws,cloudflare,github" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,ros,react,python,cpp,aws,cloudflare,github" />
   </a>
 </p>
 

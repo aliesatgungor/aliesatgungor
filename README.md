@@ -13,7 +13,7 @@
 
 <!-- Senin profiline özel, etkileyici bir giriş -->
 <p align="left">
-I am a passionate **Shipbuilding and Ocean Engineering Student at Istanbul Technical University (ITU)**, bridging the gap between marine technology and advanced robotics. Currently, I am a 🚀 **Deployment Intern at ADASTEC**, focusing on autonomous vehicle systems, precise sensor calibration (LiDAR, GNSS, Camera), and ODD analysis.
+I am a passionate **Shipbuilding and Ocean Engineering Student at Istanbul Technical University (ITU)** , bridging the gap between marine technology and advanced robotics. Currently, I am a 🚀 **Deployment Intern at ADASTEC**, focusing on autonomous vehicle systems, precise sensor calibration (LiDAR, GNSS, Camera), and ODD analysis.
 
 I am also actively developing 🌟 **Flapzy**, a monorepo project leveraging AWS and Cloudflare Pages. 
 

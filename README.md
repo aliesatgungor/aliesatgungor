@@ -3,7 +3,7 @@
 <!-- 1. HAREKETLİ BAŞLIK (Typing SVG - Çalışıyor, test edildi) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1B2&center=true&vCenter=true&width=700&lines=Autonomous+Vehicle+Enthusiast;Marine+Robotics+Research+at+ITU;ROS+1+%26+ROS+2+Developer;Building+Flapzy+%7C+Deployment+%40+ADASTEC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1B2&center=true&vCenter=true&width=700&lines=Autonomous+Vehicle+Enthusiast;Engineering+Student+at+ITU;ROS+1+%26+ROS+2+Developer;Building+Flapzy+%7C+Deployment+%40+ADASTEC" alt="Typing SVG" />
   </a>
 </div>
 

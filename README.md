@@ -46,7 +46,7 @@ When I’m not coding or conducting tests, you can find me at my optimized city 
 
 ### 🏆 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliesatgungor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aliesatgungor&langs_count=4" alt="Top Languages" />
 </div>
 
 
